@@ -1,0 +1,10 @@
+C:\Documents and Settings\clairobc\My Documents\Visual Studio 2008\Projects\MTScriptLibrary\MTScriptLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\clairobc\My Documents\Visual Studio 2008\Projects\MTScriptLibrary\MTScriptLibrary\bin\Release\MTScriptLibrary.pdb
+C:\Documents and Settings\clairobc\My Documents\Visual Studio 2008\Projects\MTScriptLibrary\MTScriptLibrary\obj\Release\MTScriptLibrary.pdb
+C:\Documents and Settings\clairobc\My Documents\Visual Studio 2008\Projects\MTScriptLibrary\MTScriptLibrary\bin\Release\MTScriptLibrary.dll
+C:\Documents and Settings\clairobc\My Documents\Visual Studio 2008\Projects\MTScriptLibrary\MTScriptLibrary\obj\Release\MTScriptLibrary.dll
+F:\Programing\MTScriptLibrary\MTScriptLibrary\bin\Release\MTScriptLibrary.dll
+F:\Programing\MTScriptLibrary\MTScriptLibrary\bin\Release\MTScriptLibrary.pdb
+F:\Programing\MTScriptLibrary\MTScriptLibrary\obj\Release\MTScriptLibrary.csprojResolveAssemblyReference.cache
+F:\Programing\MTScriptLibrary\MTScriptLibrary\obj\Release\MTScriptLibrary.dll
+F:\Programing\MTScriptLibrary\MTScriptLibrary\obj\Release\MTScriptLibrary.pdb
